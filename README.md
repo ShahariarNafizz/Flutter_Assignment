@@ -28,11 +28,13 @@ The purpose of this project is to build a real-world Flutter application by cons
 | `http` | ^1.2.0 | To handle network requests and API integration. |
 | `provider` | ^6.1.2 | For global state management and dependency injection. |
 | `hive` | ^2.2.3 | NoSQL lightweight database for local offline caching. |
-| `hive_flutter`| ^1.1.0 | Hive extension specifically for Flutter applications. |
-
+| `hive_flutter`| ^1.1.0 | Hive extension specifically for Flutter applications. | 
 
 ## 🚀 How to Run the Project
 
-1. **Clone the repository:**
+**Local Environment (VS Code / Android Studio)**
+1. Clone the repository to your local machine:
    ```bash
-   git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
+   git clone [https://github.com/ShahariarNafizz/Flutter_Assignment.git](https://github.com/ShahariarNafizz/Flutter_Assignment.git)
+
+
